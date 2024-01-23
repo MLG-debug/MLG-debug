@@ -5,7 +5,9 @@
   In a world of bits and bytes, I am the architect who transforms codes into possibilities.
 </p>&nbsp;
 
+<div  align="center">
 <img src="https://streak-stats.demolab.com?user=MLG-debug&theme=midnight-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</div>
 
 <div  align="center" style="margin-bottom:100px">
 
