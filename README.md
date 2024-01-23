@@ -5,9 +5,10 @@
   In a world of bits and bytes, I am the architect who transforms codes into possibilities.
 </p>&nbsp;
 
+<img src="https://streak-stats.demolab.com?user=MLG-debug&theme=midnight-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
 
 <div  align="center" style="margin-bottom:100px">
-<img src="https://streak-stats.demolab.com?user=MLG-debug&theme=midnight-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple&hide=contribs,prs)
 </div>
 
