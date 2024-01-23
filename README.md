@@ -7,7 +7,8 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=MLG-debug&theme=midnight-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple&hide=contribs,prs)
 </div>
 
  
