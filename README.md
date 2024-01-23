@@ -7,8 +7,12 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  <div> 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=MLG-debug)](https://git.io/streak-stats)
+  </div>
+  <div>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
  </div>
 
  
