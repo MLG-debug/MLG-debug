@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MLG-debug&show_icons=true&theme=midnight-purple&hide=contribs,prs)
+
 
  
  &nbsp;
