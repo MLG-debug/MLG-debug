@@ -11,7 +11,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&theme=midnight-purple&hide=contribs&hide_border=true,prs)
 </div>
 
  
