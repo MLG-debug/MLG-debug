@@ -1,8 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MLG-debug/MLG-debug/blob/main/github-banner.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p>
-   Hi, I’m Michael 👋 
+<p align="center" >
+  <strong> Hi, I’m Michael 👋 </strong>
 </p>&nbsp;
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 ### Design Tools;
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white))&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 
