@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight-purple)-->
