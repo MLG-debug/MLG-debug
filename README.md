@@ -9,7 +9,7 @@
   In a world of bits and bytes, I am the architect who transforms codes into possibilities.
 </p>&nbsp;
 
-<div style="display:flex;justify-content:center;align-items:center;gap: 1rem;">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=MLG-debug&theme=midnight-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight-purple"/>
 </div>
