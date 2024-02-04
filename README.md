@@ -13,12 +13,13 @@
 <img src="https://streak-stats.demolab.com?user=MLG-debug&theme=midnight-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </div>
 
-<!--- <div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:100px">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&hide_border=true&theme=midnight-// purple&hide=contribs,prs)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight)
+</div>
 
-</div>-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact)
 
  
  &nbsp;
