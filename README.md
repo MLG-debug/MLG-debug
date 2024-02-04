@@ -9,11 +9,11 @@
   In a world of bits and bytes, I am the architect who transforms codes into possibilities.
 </p>&nbsp;
 
-<div  align="center">
+<div style="display:flex;justify-content:center;align-items:center;gap: 1rem;">
   <img src="https://streak-stats.demolab.com?user=MLG-debug&theme=midnight-purple&hide_border=true&mode=weekly" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight-purple"/>
 </div>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLG-debug&layout=compact&theme=midnight-purple)-->
 
 <!--<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLG-debug&show_icons=true&hide_border=true&theme=midnight-// purple&hide=contribs,prs)</div>-->
 
